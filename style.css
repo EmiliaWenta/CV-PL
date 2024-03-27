@@ -1,12 +1,13 @@
 body {
   font-family: "Montserrat", sans-serif;
   background: #f5f7fa;
+  margin: 0px;
 }
 
 .wrapper {
   display: flex;
   flex-direction: row-reverse;
-  width: 1200px;
+  width: 1350px;
   justify-content: center;
   margin: 0 auto;
   background: #ffffff;
@@ -14,12 +15,13 @@ body {
 }
 
 aside {
-  width: 900px;
+  width: 610px;
   background: #1e2939;
 }
 
 .cv-photo {
   margin-top: 25px;
+  width: 100%;
 }
 
 .header-secondary {
@@ -70,12 +72,12 @@ aside {
 }
 
 main {
-  padding: 102px 88px 102px 88px;
+  padding: 30px 200px 40px 40px;
   width: 100%;
 }
 
 .main-description {
-  width: 650px;
+  width: 100%;
 }
 
 .job-tittle {
@@ -96,6 +98,7 @@ h1 {
   line-height: 24px;
   color: #595959;
   margin-bottom: 40px;
+  width: 100%;
 }
 
 .projects {
